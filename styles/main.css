@@ -3,19 +3,19 @@ body {
 }
 
 header {
-    background: url('../images/bryan-minear-357755.jpg') center / cover;
+    background: url('../images/beautiful-island.jpg') center / cover;
     height: 60vh;
     justify-content: center;
     text-align: center;
 }
 
 h1 {
-    color: rgba(4, 53, 109, 0.911);
+    color: rgba(8, 50, 112, 0.911);
     font-weight: bold;
 }
 
 .slogan {
-    color: rgba(18, 5, 138, 0.7);
+    color: rgb(8, 49, 88);
     font-weight: lighter;
     font-size: 1.6rem;
 }
