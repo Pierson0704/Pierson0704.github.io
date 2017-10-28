@@ -3,14 +3,14 @@ body {
 }
 
 header {
-    background: url(~/bloc/portfolio/images/notebook.jpg) center / cover;
+    background: url('../images/bryan-minear-357755.jpg') center / cover;
     height: 60vh;
     justify-content: center;
     text-align: center;
 }
 
 h1 {
-    color: rgba(18, 6, 128, 0.9);
+    color: rgba(4, 53, 109, 0.911);
     font-weight: bold;
 }
 
